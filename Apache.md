@@ -1,4 +1,6 @@
-## Apache
+# Apache
+
+## Introducción
 El servidor HTTP Apache es un servidor web HTTP de código abierto, para múltiples
 plataformas que implementa el protocolo HTTP/1.1 La funcionalidad principal de este
 servicio web es servir a los usuarios todos los ficheros necesarios para visualizar la
@@ -54,3 +56,5 @@ escribiendo esta dirección:
 ```
 http://your_server_ip
 ```
+
+## Configuración
